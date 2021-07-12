@@ -4,7 +4,7 @@
 
 ### Welcome to my space!
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/marcosfsoares)](https://github.com/marcosfsoares)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-flavio-soares/)](https://www.linkedin.com/in/marcos-flavio-soares/) <img src="https://komarev.com/ghpvc/?username=marcosfsoares&label=Profile%20views&color=0e75b6&style=flat" alt="marcosfsoares" />
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/marcosfsoares)](https://github.com/marcosfsoares) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-flavio-soares/)](https://www.linkedin.com/in/marcos-flavio-soares/) <img src="https://komarev.com/ghpvc/?username=marcosfsoares&label=Profile%20views&color=0e75b6&style=flat" alt="marcosfsoares" />
 
 
 
