@@ -10,7 +10,7 @@
 
 ### About me
 
-- ⚡ I’m graduated in Electrical Engineering, with MBA in General Management.
+- ⚡ I’m graduated in Electrical Engineering, with MBA in General Management. Currently attending to Postgraduation in Embedded Systems.
 
 - ISTQB - CTFL certified.
 
