@@ -16,9 +16,9 @@
 
 - 🔭 For a long time, I've been working with manual software tests  and little automated cases using Continuous Integration, as Quality Assurance Engineer.
 
-- 💻 Now, I’m currently learning Python and Automated tests in Ruby, using Cucumber, Capybara, Selenium and Rspec.
+- 💻 Now, I’m currently learning C#, C and Embedded Software programming with Arduino, STM32, ESP32 and Raspberry PI development kits.
 
-- 💬 I’m looking to collaborate on Python and Test Automation projects.
+- 💬 I’m looking to collaborate on Python, C#, C and Test Automation projects as well as Embedded Software projects.
 
 - 📫 I’m looking for help with course suggestions, programming tips and so on...
 
